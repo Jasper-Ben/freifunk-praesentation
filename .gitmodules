@@ -1,0 +1,3 @@
+[submodule "freifunk-beamer-template"]
+	path = freifunk-beamer-template
+	url = https://github.com/Jasper-Ben/freifunk-beamer-template.git
