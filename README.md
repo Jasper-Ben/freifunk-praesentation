@@ -1,6 +1,6 @@
 # freifunk-praesentation
 
-# Getting started
+## Getting started
 
 ### Dependencies:
 - texlive
