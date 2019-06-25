@@ -23,13 +23,24 @@ Wir verstehen frei als:
 - Menschen dazu befähigen, eigene Netze aufzubauen und zu betreiben
 - Vorhandene und neue Sozialstrukturen fördern und vernetzen
 
-# Freifunk vs. kommerzielle Anbieter
+# Freifunk vs. kommerzielle Anbieter (Beispiel MD)
 
-![OB von MD Dr. Trümper (SPD) eröffnet feierlich kommerzielle Hotspots \newline \hspace{\textwidth}[(Quelle: magdeburg-tourist.de)](https://www.magdeburg-tourist.de)](images/commercial_hotspots.png){width=350px}
+![OB von MD, Dr. Trümper (SPD) eröffnet feierlich kommerzielle Hotspots \newline \hspace{\textwidth}[(Quelle: magdeburg-tourist.de)](https://www.magdeburg-tourist.de/Start/Tourismus-Freizeit/index.php?La=1&NavID=37.9&object=tx%7C37.11887.1)](images/commercial_hotspots.png){width=350px}
 
-# Freifunk vs. kommerzielle Anbieter
-
-# Aktueller Status
-- 50400 Zugänge in 450 Communities
-
-![Freifunk Communities](images/ff_map.png){width=200px}
+# Freifunk vs. kommerzielle Anbieter (Beispiel MD)
+- Otto-Hotspot
+    - Zeitlimit von 6 Stunden am Tag
+    - TODO: AGB
+    - 18 Hotspots
+    - gelistet auf [magdeburg-tourist.de](https://www.magdeburg-tourist.de/Start/Tourismus-Freizeit/index.php?La=1&NavID=37.9&object=tx%7C37.11887.1)
+- Kabel Deutschland (Vodafone)
+    - Zeitlimit von 30 Minuten am Tag für Nicht-Kunden
+    - TODO: AGB
+    - 6 Hotspots gelistet, durch Zwanghotspot mehr
+    - gelistet auf [magdeburg-tourist.de](https://www.magdeburg-tourist.de/Start/Tourismus-Freizeit/index.php?La=1&NavID=37.9&object=tx%7C37.11887.1)
+- Freifunk Magdeburg
+    - KEIN Zeitlimit
+    - KEINE Zweiklassen-Angebote
+    - KEINE AGB
+    - ca. 200 Hotspots (ca. 50400 Europaweit)
+    - NICHT gelistet auf [magdeburg-tourist.de](https://www.magdeburg-tourist.de/Start/Tourismus-Freizeit/index.php?La=1&NavID=37.9&object=tx%7C37.11887.1) :(
