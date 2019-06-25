@@ -27,6 +27,11 @@ Wir verstehen frei als:
 
 ![OB von MD, Dr. Trümper (SPD) eröffnet feierlich kommerzielle Hotspots \newline \hspace{\textwidth}[(Quelle: magdeburg-tourist.de)](https://www.magdeburg-tourist.de/Start/Tourismus-Freizeit/index.php?La=1&NavID=37.9&object=tx%7C37.11887.1)](images/commercial_hotspots.png){width=350px}
 
+# AGB \& Datenschutz: MDCC hotspot
+
+
+
+
 # Freifunk vs. kommerzielle Anbieter (Beispiel MD)
 - Otto-Hotspot
     - Zeitlimit von 6 Stunden am Tag
