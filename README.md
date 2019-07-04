@@ -13,4 +13,4 @@
 `git submodule update`
 
 ### Build
-`pandoc praesentation.md --pdf-engine xelatex -t beamer -o praesentation.pdf`
+`pandoc presentation.md --pdf-engine xelatex -t beamer -o presentation.pdf`
